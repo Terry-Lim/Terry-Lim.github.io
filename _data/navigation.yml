@@ -9,9 +9,9 @@ docs:
   - title: "Languages"
     children:
       - title: "C\\C++"
-      - url: "/categories/cpp"
+        url: "/categories/cpp"
       - title: "C#"
-      - url: "/categories/csharp"
+        url: "/categories/csharp"
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
