@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Git 명령어"
+title: "[Git] Git 명령어"
 categories: git
 tag: [git]
 toc: true

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Git 설치 및 구성"
+title: "[Git] Git 설치 및 구성"
 categories: git
 tag: [git]
 toc: true
