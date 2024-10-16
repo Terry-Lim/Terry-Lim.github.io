@@ -4,6 +4,15 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+
+docs:
+  - title: "Languages"
+    children:
+      - title: "C\\C++"
+      - url: "/categories/cpp"
+      - title: "C#"
+      - url: "/categories/csharp"
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
