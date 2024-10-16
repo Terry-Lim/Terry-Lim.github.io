@@ -3,7 +3,8 @@ title: "C++ 프로그래밍"
 layout: archive
 permalink: categories/cpp
 author_profile: true
-sidebar_main: true
+sidebar:
+  nav: "docs"
 ---
 
 <!-- 공백이 포함되어 있는 카테고리 이름의 경우 site.categories['a b c'] 이런식으로! -->

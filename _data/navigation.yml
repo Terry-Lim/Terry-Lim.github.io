@@ -12,6 +12,10 @@ docs:
         url: "/categories/cpp"
       - title: "C#"
         url: "/categories/csharp"
+  - title: "Etc"
+    children:
+      - title: "Git & Github"
+        url: "/categories/git"
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
